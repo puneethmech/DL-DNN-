@@ -1,1 +1,1 @@
-# DL-DNN-cifr10 immage classification using DNN
+# DL-DNN-cifar10 immage classification using DNN
